@@ -1,0 +1,10 @@
+.country{
+    border: 2px solid firebrick;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+    background-color: antiquewhite;
+    color:green;
+    text-align: center;
+
+}
